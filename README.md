@@ -84,4 +84,4 @@ A Beverage Detection Application for Visually Impaired
 
 
 ## Authors
-이창재 [박성혜](https://www.linkedin.com/in/%EB%B0%95%EC%84%B1%ED%98%9Clea/) 임보라 정유석
+[이창재](https://github.com/com0040) [박성혜](https://www.linkedin.com/in/%EB%B0%95%EC%84%B1%ED%98%9Clea/) [임보라](https://github.com/violet417) [정유석](https://github.com/dbtjr1103)
