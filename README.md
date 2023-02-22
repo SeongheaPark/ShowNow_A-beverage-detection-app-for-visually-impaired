@@ -76,7 +76,8 @@ A Beverage Detection Application for Visually Impaired
 
 ## 한계점과 확장 방안
 ![2023-02-22 14 17 50](https://user-images.githubusercontent.com/115054956/220529370-b3c34826-0151-4d15-bf91-908d1e85e6fc.png)
-![2023-02-22 14 17 25](https://user-images.githubusercontent.com/115054956/220529364-2b70bf9d-31a2-4759-a028-e8e864974a52.png)
+![2023-02-22 14 24 01](https://user-images.githubusercontent.com/115054956/220530363-180ce32f-e488-409f-bf07-20df112d8fb6.png)
+content.com/115054956/220529615-25e767ff-00f5-4624-8d5f-38a37da90f29.png)
 
 
 ---
