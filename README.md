@@ -11,14 +11,13 @@ A Beverage Detection Application for Visually Impaired
 ## 개요 Overview
 ### 1. 다양한 시각장애인의 시야 Various Eyesights of Visually Impaired
 * 비장애인은 흔히 시각장애인이 모두 전맹이라고 생각하지만, 실제 시각장애인의 시야는 다양합니다.
-
-(사진 수정 예정, 각 시야 밑에 증상 이름 적을 예정)
-![ppt3시야](https://user-images.githubusercontent.com/115054956/220268183-7a6efba2-56e2-4b55-8d47-a6efbe45e5ea.png)
+![2023-02-22 13 26 41](https://user-images.githubusercontent.com/115054956/220521854-f1d5d730-2d1c-4155-996d-0e0dab184237.png)
 
 ### 2. 시각장애인이 편의점에서 음료를 고르는 방법 The Way Visually Impaired Select Products in Retails
 * 대부분의 음료에 점자가 없거나 '음료'라고만 되어 있어 시각장애인이 상품 선택 시 어려움을 겪습니다.
 
 (한솔 영상 움짤로 올라갈 예정)
+![2023-02-22 13 30 34](https://user-images.githubusercontent.com/115054956/220522326-1bebd7f5-a008-4ddb-a7a1-69050e631fb1.png)
 
 ### 3. 쇼우나우 어플 소개 Introduction Of ShowNow Application
 <div align="center"> <img src="https://user-images.githubusercontent.com/115054956/220498305-a9a433ed-435e-49ab-a435-8c6cb0d3ac5c.png" width="800"> </div>
@@ -28,21 +27,30 @@ A Beverage Detection Application for Visually Impaired
 * 시각장애인도 핸드폰과 어플을 사용할 수 있습니다.
 
 (우령 영상 움짤로 올라갈 예정)
+![2023-02-22 13 32 01](https://user-images.githubusercontent.com/115054956/220522515-370c12f0-7c77-487e-a0da-591d83953a70.png)
+
 
 ## 데이터 출처, 규모, 정제 Dataset
 * 데이터는 아래와 같이 세 가지로 나뉩니다.
   - 편의점에서 직접 촬영한 데이터 약 700장
   - AI Hub에서 다운로드 받은 데이터 약 800장
   - 웹크롤링 데이터 약 1800장
-![2023-02-22 10 59 04](https://user-images.githubusercontent.com/115054956/220501430-4afbbfaa-acfd-4ded-8348-23ea9634322a.png)
+![2023-02-22 13 46 19](https://user-images.githubusercontent.com/115054956/220524488-33979103-ee42-43b6-b85e-d9cefdefe387.png)
 * 전처리 작업은 [Roboflow](https://app.roboflow.com/mainproject)에서 진행하였습니다. 
-![2023-02-22 11 00 02](https://user-images.githubusercontent.com/115054956/220501560-4a6695c9-7b38-48c5-905d-9d58bf2cf2aa.png)
+![2023-02-22 13 46 25](https://user-images.githubusercontent.com/115054956/220524498-a5f79f4e-b9fc-4e30-8aea-17ba3b6f6c8a.png)
 
-## YOLOv5 모델
-![ppt13모델1](https://user-images.githubusercontent.com/115054956/220268216-99d72cbc-d8c5-4ee7-85c8-94ce4448bb71.png)
-![ppt14모델2](https://user-images.githubusercontent.com/115054956/220268220-8990e42c-9cb1-4a5a-8503-7df14fb4df35.png)
-![ppt15](https://user-images.githubusercontent.com/115054956/220268221-27b536ae-f354-4b6b-bf76-7d78c0842cfb.png)
-![ppt16](https://user-images.githubusercontent.com/115054956/220268226-48d46141-f63f-4ef0-8f0a-ea40b42ebc13.png)
+## YOLOv5 nano 모델
+![2023-02-22 13 46 33](https://user-images.githubusercontent.com/115054956/220524502-aa87561b-4876-46a2-9f51-6736c379f56f.png)
+
+* YOLOv5 nano는 CPU와 GPU에서 모두 가장 빠른 모델입니다.
+
+![2023-02-22 13 43 32](https://user-images.githubusercontent.com/115054956/220524241-ffd09189-c4f9-420a-be9c-a51a544ca96d.png)
+![2023-02-22 13 44 21](https://user-images.githubusercontent.com/115054956/220524246-fa161b0f-9227-4d07-bb81-04e37928c55d.png)
+
+* 실제 데이터셋으로 비교하였을 떄에도 YOLOv5 nano가 뛰어난 성능을 보였습니다.
+![2023-02-22 13 52 40](https://user-images.githubusercontent.com/115054956/220525350-5671879c-ca04-4776-8080-b74136b879a3.png)
+
+
 ![ppt17](https://user-images.githubusercontent.com/115054956/220268229-d8ba53bd-cae0-4530-8941-4391b08b320c.png)
 ![ppt18](https://user-images.githubusercontent.com/115054956/220268232-fa0fad0d-9fab-4890-8fbf-a0f1f3fb5b5d.png)
 ![ppt19](https://user-images.githubusercontent.com/115054956/220268237-2b0c80a3-db3c-41a1-9ae5-9cf2b965c4c3.png)
