@@ -10,10 +10,6 @@ A Beverage Detection Application for Visually Impaired
 
 # 목차 Index
 1. 개요
-  - 배경
-  - 쇼우나우 어플 소개
-  - 시각장애인이 어플을 사용하는 방법
-
 2. 데이터 출처, 규모, 전처리 방식
 3. 어플 구현 과정
 4. 한계점과 확장방안
