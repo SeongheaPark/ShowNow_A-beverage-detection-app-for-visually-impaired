@@ -27,10 +27,16 @@ A Beverage Detection Application for Visually Impaired
 ### 4. 시각장애인이 어플을 사용하는 방법 The Way Visually Impaired Use Phone and Applications
 * 시각장애인도 핸드폰과 어플을 사용할 수 있습니다.
 
-## 데이터 
-![ppt10수행일정](https://user-images.githubusercontent.com/115054956/220268209-d16b1f4d-a48c-474c-9816-e487a990210f.png)
-![ppt11데이터1](https://user-images.githubusercontent.com/115054956/220268211-6ad1ce51-ca10-4730-81d9-1ea13668056e.png)
-![ppt12데이터2](https://user-images.githubusercontent.com/115054956/220268214-fea3e49e-7035-4007-aee8-fdf1b6410cb5.png)
+## 데이터 출처, 규모, 정제 Dataset
+* 데이터는 아래와 같이 세 가지로 나뉩니다.
+  - 편의점에서 직접 촬영한 데이터 약 700장
+  - AI Hub에서 다운로드 받은 데이터 약 800장
+  - 웹크롤링 데이터 약 1800장
+![2023-02-22 10 59 04](https://user-images.githubusercontent.com/115054956/220501430-4afbbfaa-acfd-4ded-8348-23ea9634322a.png)
+* 전처리 작업은 [Roboflow](https://app.roboflow.com/mainproject)에서 진행하였습니다. 
+![2023-02-22 11 00 02](https://user-images.githubusercontent.com/115054956/220501560-4a6695c9-7b38-48c5-905d-9d58bf2cf2aa.png)
+
+## YOLOv5 모델
 ![ppt13모델1](https://user-images.githubusercontent.com/115054956/220268216-99d72cbc-d8c5-4ee7-85c8-94ce4448bb71.png)
 ![ppt14모델2](https://user-images.githubusercontent.com/115054956/220268220-8990e42c-9cb1-4a5a-8503-7df14fb4df35.png)
 ![ppt15](https://user-images.githubusercontent.com/115054956/220268221-27b536ae-f354-4b6b-bf76-7d78c0842cfb.png)
