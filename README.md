@@ -71,12 +71,22 @@ A Beverage Detection Application for Visually Impaired
 ![2023-02-22 14 09 55](https://user-images.githubusercontent.com/115054956/220527975-04b09f70-9769-4669-ba2a-8f432699f570.png)
 
 ## 어플 등록 현황
-<div align="center"> <img src="https://user-images.githubusercontent.com/115054956/220528400-21bb28d4-8df9-4292-8764-421e20b3b004.jpg" width="500"> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/115054956/220560165-c4ff3eed-8ba0-4803-b0c1-fe7d2bdbb437.png" width="300"> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/115054956/220528400-21bb28d4-8df9-4292-8764-421e20b3b004.jpg" width="300"> </div>
 
 
 ## 한계점과 확장 방안
-![2023-02-22 14 17 50](https://user-images.githubusercontent.com/115054956/220529370-b3c34826-0151-4d15-bf91-908d1e85e6fc.png)
-![2023-02-22 14 24 01](https://user-images.githubusercontent.com/115054956/220530363-180ce32f-e488-409f-bf07-20df112d8fb6.png)
+* 한계점
+  - 투명 용기 인식에 어려움
+  - 상품의 패키징이 변화함에 따라 주기적인 업데이트 필요
+  - 스마트폰 기종에 따른 UI와 인퍼런스 성능에 차이가 있어 개선 필요
+
+* 추후 확장 방안
+  - STT를 추가하여 소비자가 데이터 추가 요청 가능
+  - 상품 별 이벤트 설명 가능
+  - OCR을 추가하여 상품 별 유통기한 설명 가능
+  - 상품군 확대 가능
+  - 아이폰 어플 개발 가능
 
 
 ---
@@ -92,3 +102,4 @@ A Beverage Detection Application for Visually Impaired
 
 ## Authors
 [이창재](https://github.com/com0040) [박성혜](https://www.linkedin.com/in/%EB%B0%95%EC%84%B1%ED%98%9Clea/) [임보라](https://github.com/violet417) [정유석](https://github.com/dbtjr1103)
+
