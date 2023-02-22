@@ -27,6 +27,8 @@ A Beverage Detection Application for Visually Impaired
 ### 4. 시각장애인이 어플을 사용하는 방법 The Way Visually Impaired Use Phone and Applications
 * 시각장애인도 핸드폰과 어플을 사용할 수 있습니다.
 
+(우령 영상 움짤로 올라갈 예정)
+
 ## 데이터 출처, 규모, 정제 Dataset
 * 데이터는 아래와 같이 세 가지로 나뉩니다.
   - 편의점에서 직접 촬영한 데이터 약 700장
