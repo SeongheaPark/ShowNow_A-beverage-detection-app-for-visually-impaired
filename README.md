@@ -80,7 +80,14 @@ A Beverage Detection Application for Visually Impaired
 
 
 ---
-![2023-02-22 14 19 25](https://user-images.githubusercontent.com/115054956/220529615-25e767ff-00f5-4624-8d5f-38a37da90f29.png)
+
+![2023-02-22 16 59 43](https://user-images.githubusercontent.com/115054956/220558446-140faf5d-7cca-4cc3-a184-77eafbc28f85.png)
+
+
+## References
+1. https://github.com/ultralytics/yolov5
+2. https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5
+3. https://www.youtube.com/watch?v=ROn1_O2zEtk
 
 
 ## Authors
