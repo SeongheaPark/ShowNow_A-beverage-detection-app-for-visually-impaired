@@ -7,13 +7,27 @@ A Beverage Detection Application for Visually Impaired
 </h1>
 
 ![ppt1표지](https://user-images.githubusercontent.com/115054956/220268178-d7f2dbec-c6bd-4029-88db-6fbc8210d557.png)
+
+## 개요 Overview
+### 1. 다양한 시각장애인의 시야 Various Eyesights of Visually Impaired
+* 비장애인은 흔히 시각장애인이 모두 전맹이라고 생각하지만, 실제 시각장애인의 시야는 다양합니다.
+
+(사진 수정 예정, 각 시야 밑에 증상 이름 적을 예정)
 ![ppt3시야](https://user-images.githubusercontent.com/115054956/220268183-7a6efba2-56e2-4b55-8d47-a6efbe45e5ea.png)
-![ppt4한솔](https://user-images.githubusercontent.com/115054956/220269133-94e65b70-e067-49d2-9e0c-5396c00dbb3a.png)
-![ppt5소개1](https://user-images.githubusercontent.com/115054956/220268190-35e0e3b0-fe98-4fa9-b9a1-81589fdfbe57.png)
-![ppt6소개2](https://user-images.githubusercontent.com/115054956/220268196-f5c8266a-440a-43a1-88a1-587267cab3d1.png)
-![ppt7소개3](https://user-images.githubusercontent.com/115054956/220268198-88844f12-7d79-4a5e-b33b-2d0832633621.png)
-![ppt8소개4](https://user-images.githubusercontent.com/115054956/220268200-ba583d80-22e5-4360-9350-94b72e1f0df8.png)
-![ppt9팀구성](https://user-images.githubusercontent.com/115054956/220268206-4d221cbc-4a4a-4f47-a945-38ee177604e8.png)
+
+### 2. 시각장애인이 편의점에서 음료를 고르는 방법 The Way Visually Impaired Select Products in Retails
+* 대부분의 음료에 점자가 없거나 '음료'라고만 되어 있어 시각장애인이 상품 선택 시 어려움을 겪습니다.
+
+(한솔 영상 움짤로 올라갈 예정)
+
+### 3. 쇼우나우 어플 소개 Introduction Of ShowNow Application
+<div align="center"> <img src="https://user-images.githubusercontent.com/115054956/220498305-a9a433ed-435e-49ab-a435-8c6cb0d3ac5c.png" width="800"> </div>
+
+
+### 4. 시각장애인이 어플을 사용하는 방법 The Way Visually Impaired Use Phone and Applications
+* 시각장애인도 핸드폰과 어플을 사용할 수 있습니다.
+
+## 데이터 
 ![ppt10수행일정](https://user-images.githubusercontent.com/115054956/220268209-d16b1f4d-a48c-474c-9816-e487a990210f.png)
 ![ppt11데이터1](https://user-images.githubusercontent.com/115054956/220268211-6ad1ce51-ca10-4730-81d9-1ea13668056e.png)
 ![ppt12데이터2](https://user-images.githubusercontent.com/115054956/220268214-fea3e49e-7035-4007-aee8-fdf1b6410cb5.png)
